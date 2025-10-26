@@ -36,7 +36,7 @@
 
 ### 📊 **GitHub Stats**
 ![Ashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHIKA1304&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshikaTR&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHIKA1304&layout=compact&theme=radical)
 
 ---
 
